@@ -1,6 +1,6 @@
 # 🐍 Data Structures and Algorithms in Python
 
-This repository contains implementations of essential **Data Structures and Algorithms (DSA)** using **Python**. It is designed for students, developers, and anyone looking to master DSA concepts with clean and well-commented Python code.
+This repository contains implementations of essential **Data Structures and Algorithms (DSA)** using **Python**.
 
 ---
 
