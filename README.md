@@ -25,7 +25,7 @@ This repository contains implementations of essential **Data Structures and Algo
 - Dynamic Programming (DP)
 - Greedy Algorithms
 - Graph Algorithms (BFS, DFS, Dijkstra's, etc.)
-- Tree Traversals (Inorder, Preorder, Postorder)
+- Tree Traversals (Inorder, Preorder, Postorder) 
 - Union-Find (Disjoint Set)
 
 ---
