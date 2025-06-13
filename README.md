@@ -9,7 +9,7 @@ This repository contains implementations of essential **Data Structures and Algo
 ### 🔹 Data Structures
 - Arrays / Lists
 - Stacks
-- Queues (Simple, Circular, Priority)
+- Queues (Simple, Circular, Priority)  
 - Linked Lists (Singly, Doubly)
 - Hash Tables / Dictionaries
 - Trees (Binary Tree, BST)
